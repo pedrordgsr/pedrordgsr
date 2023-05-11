@@ -1,16 +1,19 @@
-### Hi there 👋
+### Eu sou Pedro, e estou estundando programação! 👋
+- 🌱 Estudando Análise e Desenvolvimento de Sistemas no Instituto Federal de Umuarama
+- 🔭 No momento trabalho com redes sociais e gerenciamento de tráfego
+- 📫 Entre em contato: pedrorodriguesssrrr@gmail.com
+- ⚡ Fun fact: A coisa que achei mais legal de programar foi um jogo em RPG Maker!
+- 🕹️ Passatempos: Fazer músicas, mexer com Linux e jogar Valorant
 
-<!--
-**pedrordgsr/pedrordgsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Photoshop" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg">
+  <img align="center" alt="Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+  <div  style="display:flex">
+<img align="right" alt="Jett-gif" height="150" style="border-radius:50px;" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjQ5NGIxNGZjZmJhY2U4NmE4NzJmMDQxNTU4NjFiNjMxZjc1YTdjZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/HuIiWZekURnZzBMAXK/giphy.gif?">
+  </div>
+</div>

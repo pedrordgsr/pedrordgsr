@@ -1,4 +1,4 @@
-### Eu sou Pedro, e estou estundando programação! 👋
+### Eu sou Pedro, e estou estudando programação! 👋
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas no Instituto Federal de Umuarama
 - 🔭 No momento trabalho com suporte técnico de hardware e sistemas
 - 📫 Entre em contato: pedrorodriguesssrrr@gmail.com

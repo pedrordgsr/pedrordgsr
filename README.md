@@ -4,7 +4,7 @@
 -  💡  Estou me especializando em Desenvolvimento Web Back-end
 - 📫 Entre em contato: pedrorodriguesssrrr@gmail.com
 - ⚡ Fun fact: A coisa que achei mais legal de programar foi um jogo em RPG Maker!
-- 🕹️ Passatempos: Produzir músicas, Design e Cyberpunk
+- 🕹️ Passatempos: Produzir músicas, Design e Jogar Valorant, Cyberpunk entre outros
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

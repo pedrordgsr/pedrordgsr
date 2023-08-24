@@ -1,5 +1,6 @@
 ### Eu sou Pedro, e estou estudando programação! 👋
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas no Instituto Federal de Umuarama
+-  💡  Formado em Técnico em informática pelo Instituto Federal de Umuarama
 - 🔭 No momento trabalho com suporte técnico de hardware e sistemas
 -  💡  Estou me especializando em Desenvolvimento Web Back-end
 - 📫 Entre em contato: pedrorodriguesssrrr@gmail.com

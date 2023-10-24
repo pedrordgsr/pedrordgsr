@@ -2,7 +2,7 @@
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas no Instituto Federal de Umuarama
 -  💡  Formado em Técnico em informática pelo Instituto Federal de Umuarama
 - 🔭 No momento trabalho com suporte técnico de hardware e sistemas
--  💡  Estou me especializando em Desenvolvimento Web Back-end
+-  💡  Estou me especializando em Desenvolvimento Web Front-End
 - 📫 Entre em contato: pedrorodriguesssrrr@gmail.com
 - ⚡ Fun fact: A coisa que achei mais legal de programar foi um jogo em RPG Maker!
 - 🕹️ Passatempos: Produzir músicas, Design e Jogar Valorant, Cyberpunk entre outros

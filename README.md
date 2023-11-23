@@ -19,10 +19,15 @@
   <img align="center" alt="Node.js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg">
   <img align="center" alt="Node.js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg">
   <div  style="display:flex">
-    <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=pedrordgsr&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-pedrordgsr.vercel.app/api/top-langs/?username=pedrordgsr&show_icons=true&theme=radical&layout=compact" />
- </div>
+    <div align="center"><br>
+  <a href="https://github.com/pedrordgsr">
+    <div style="width:30rem">
+      <img height="160em"src="https://github-readme-stats.vercel.app/api?username=pedrordgsr&show_icons=true&theme=radical&hide_border=true"/>  
+      <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=pedrordgsr&theme=radical&hide_border=true"/>  
+      <img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrordgsr&theme=radical&hide_border=true&layout=compact&langs_count=5&locale=pt-br">
+      <img height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=pedrordgsr&theme=radical&hide_border=true&langs_count=5&layout=compact&locale=pt-br" >  
+    </div>
+</div>
 <img align="right" alt="Jett-gif" height="150" style="border-radius:50px;" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjQ5NGIxNGZjZmJhY2U4NmE4NzJmMDQxNTU4NjFiNjMxZjc1YTdjZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/HuIiWZekURnZzBMAXK/giphy.gif?">
   </div>
 </div>

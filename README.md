@@ -19,6 +19,10 @@
   <img align="center" alt="Node.js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg">
   <img align="center" alt="Node.js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg">
   <div  style="display:flex">
+    <div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=pedrordgsr&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-pedrordgsr.vercel.app/api/top-langs/?username=pedrordgsr&show_icons=true&theme=radical&layout=compact" />
+ </div>
 <img align="right" alt="Jett-gif" height="150" style="border-radius:50px;" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjQ5NGIxNGZjZmJhY2U4NmE4NzJmMDQxNTU4NjFiNjMxZjc1YTdjZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/HuIiWZekURnZzBMAXK/giphy.gif?">
   </div>
 </div>

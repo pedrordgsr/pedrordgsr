@@ -1,11 +1,10 @@
 ### Eu sou Pedro, e estou estudando programação! 👋
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas no Instituto Federal de Umuarama
 -  💡  Formado em Técnico em informática pelo Instituto Federal de Umuarama
-- 🔭 No momento trabalho com suporte técnico de hardware e sistemas
--  💡  Estou me especializando em Desenvolvimento Web
+- 🔭 No momento trabalho com análise de dados
+- 💡  Estou me especializando em Desenvolvimento Web
 - 📫 Entre em contato: pedrorodriguesssrrr@gmail.com
-- ⚡ Fun fact: A coisa que achei mais legal de programar foi um jogo em RPG Maker!
-- 🕹️ Passatempos: Produzir músicas, Design Gráfico/3d e Simuladores
+- 🕹️ Passatempos: Guitarra, Design Gráfico/3d e Jogos de Simulação
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

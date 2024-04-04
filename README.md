@@ -1,8 +1,8 @@
 ### Eu sou Pedro, e estou estudando programação! 👋
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas no Instituto Federal de Umuarama
--  💡  Formado em Técnico em informática pelo Instituto Federal de Umuarama
-- 🔭 No momento trabalho com análise de dados
-- 💡  Estou me especializando em Desenvolvimento Web
+- 💡 Formado em Técnico em informática pelo Instituto Federal de Umuarama
+- 🔭 No momento sou Analista de Dados Jr.
+- 💡 Aprofundando em desenvolvimento web
 - 📫 Entre em contato: pedrorodriguesssrrr@gmail.com
 - 🕹️ Passatempos: Guitarra, Design Gráfico/3d e Jogos de Simulação
 

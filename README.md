@@ -1,10 +1,10 @@
-### Eu sou Pedro, e estou estudando programação! 👋
-- 🌱 Estudando Análise e Desenvolvimento de Sistemas no Instituto Federal de Umuarama
-- 💡 Formado em Técnico em informática pelo Instituto Federal de Umuarama
-- 🔭 No momento sou Analista de Dados Jr.
-- 💡 Aprofundando em desenvolvimento web
-- 📫 Entre em contato: pedrorodriguesssrrr@gmail.com
-- 🕹️ Passatempos: Guitarra, Design Gráfico/3d e Jogos de Simulação
+### I am Pedro, and I'm studying programming! 👋
+- 🌱 Studying Systems Analysis and Development at Instituto Federal de Umuarama
+- 💡 Graduated as a Computer Technician from the Instituto Federal de Umuarama
+- 🔭 Currently working as a Junior Data Analyst
+- 💡 Focusing on web development
+- 📫 Contact me: pedrorodriguesssrrr@gmail.com
+- 🕹️ Hobbies: Guitar, Graphic/3D Design, and Simulation Games
 
 <div style="display: inline_block"><br>
   <img align="center" alt="PowerBI" height="30" width="40" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png">

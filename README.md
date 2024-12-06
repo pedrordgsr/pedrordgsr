@@ -4,7 +4,7 @@
 - 🔭 Currently working as a Junior Data Analyst
 - 💡 Focusing on web development
 - 📫 Contact me: pedrorodriguesssrrr@gmail.com
-- 🕹️ Hobbies: Guitar, Graphic/3D Design, and Simulation Games
+- 🕹️ I am interested in crypto, Linux, guitars and car stuff
 - I use Arch btw!
 
 <div style="display: inline_block"><br>

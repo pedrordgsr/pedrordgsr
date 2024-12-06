@@ -2,7 +2,7 @@
 - 🌱 Studying Systems Analysis and Development at Instituto Federal de Umuarama
 - 💡 Graduated as a Computer Technician from the Instituto Federal de Umuarama
 - 🔭 Currently working as a Junior Data Analyst
-- 💡 Focusing on web development
+- 💡 Learning web development
 - 📫 Contact me: pedrorodriguesssrrr@gmail.com
 - 🕹️ I am interested in crypto, Linux, guitars and car stuff
 - I use Arch btw!

@@ -23,7 +23,7 @@
   <a href="https://github.com/pedrordgsr">
     <div style="width:50rem">
       <img height="160em"src="https://github-readme-stats.vercel.app/api?username=pedrordgsr&show_icons=true&theme=radical&hide_border=true"/>  
-      <img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrordgsr&theme=radical&hide_border=true&layout=compact&langs_count=5&locale=pt-br">
+      <img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrordgsr&theme=radical&hide_border=true&layout=compact&langs_count=5&locale=en-us">
     </div>
 </div>
   </div>

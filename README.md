@@ -5,7 +5,6 @@
 - 💡 Learning web development
 - 📫 Contact me: pedrorodriguesssrrr@gmail.com
 - 🕹️ I am interested in crypto, Linux, guitars and car stuff
-- I use Arch btw!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="PowerBI" height="30" width="40" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png">
@@ -23,7 +22,7 @@
   <a href="https://github.com/pedrordgsr">
     <div style="width:50rem">
       <img height="160em"src="https://github-readme-stats.vercel.app/api?username=pedrordgsr&show_icons=true&theme=radical&hide_border=true"/>  
-      <img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrordgsr&theme=radical&hide_border=true&layout=compact&langs_count=5&locale=en-us">
+      <img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrordgsr&theme=radical&hide_border=true&layout=compact&langs_count=5&locale=en">
     </div>
 </div>
   </div>

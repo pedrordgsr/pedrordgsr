@@ -1,7 +1,7 @@
 ### I am Pedro, and I'm studying programming! 👋
 - 🌱 Studying Systems Analysis and Development at Instituto Federal de Umuarama
 - 💡 Graduated as a Computer Technician from the Instituto Federal de Umuarama
-- 🔭 Currently working as a Junior Data Analyst
+- 🔭 Currently working as a Full-time Data Analyst
 - 💡 Learning web development
 - 📫 Contact me: pedrorodriguesssrrr@gmail.com
 - 🕹️ I am interested in crypto, Linux, guitars and car stuff

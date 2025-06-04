@@ -4,7 +4,7 @@
 - 🔭 Currently working as a Full-time Data Analyst
 - 💡 Learning web development
 - 📫 Contact me: pedrorodriguesssrrr@gmail.com
-- 🕹️ I am interested in crypto, Linux, guitars and car stuff
+- 🕹️ I am interested in btc, linux, guitars and car stuff
 
 <div style="display: inline_block"><br>
   <img align="center" alt="PowerBI" height="30" width="40" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png">

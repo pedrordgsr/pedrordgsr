@@ -5,7 +5,7 @@ I am a Full-time Full-Stack Developer passionate about system architecture. I en
 
 ### 👨‍💻 About Me
 - 🎓 **Education:** Systems Analyst and IT Technician from the Federal Institute of Umuarama.
-- 🔭 **Current Focus:** End-to-end development and structuring new software projects, such as startup **Prisma** and other digital solutions.
+- 🔭 **Current Focus:** End-to-end development and structuring new software projects, such as my startup **Prisma** and other digital solutions.
 - 🌱 **On my radar:** Tech market, SaaS development, infrastructure, Bitcoin, and Linux.
 - 📫 **How to reach me:** [pedrorodriguesssrrr@gmail.com](mailto:pedrorodriguesssrrr@gmail.com)
 
